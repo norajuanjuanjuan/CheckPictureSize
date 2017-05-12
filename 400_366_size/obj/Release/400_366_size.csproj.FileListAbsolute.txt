@@ -1,0 +1,8 @@
+D:\Source_Code\400_366_size\400_366_size\bin\Release\400_366_size.exe
+D:\Source_Code\400_366_size\400_366_size\bin\Release\400_366_size.pdb
+D:\Source_Code\400_366_size\400_366_size\obj\Release\_400_366_size.Form1.resources
+D:\Source_Code\400_366_size\400_366_size\obj\Release\_400_366_size.Properties.Resources.resources
+D:\Source_Code\400_366_size\400_366_size\obj\Release\400_366_size.csproj.GenerateResource.Cache
+D:\Source_Code\400_366_size\400_366_size\obj\Release\400_366_size.exe
+D:\Source_Code\400_366_size\400_366_size\obj\Release\400_366_size.pdb
+D:\Source_Code\400_366_size\400_366_size\obj\Release\400_366_size.csprojResolveAssemblyReference.cache
